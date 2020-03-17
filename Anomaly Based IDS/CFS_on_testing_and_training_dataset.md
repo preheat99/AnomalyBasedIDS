@@ -1,15 +1,9 @@
----
-title: "CFS subset on Traning and Testing dataset"
-author: "Prabhat Amola"
-date: "17/03/2020"
-output: html_document
----
-
+#CFS subset on Traning and Testing dataset
 We have used Forward Sequence Selection for CFS. In this, an empty set is taken and rest of the features are inserted one by one.
 
 Stopping criteria is set as 5, i.e., search will terminate if 5 consecutive subsets show no improvement over the current best subset. 
 
-#Steps
+###Steps
 
 (1) First we open WEKA tools Explorer.
 (2) Under 'Preprocess' tab, we select our training dataset.
