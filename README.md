@@ -27,7 +27,7 @@ CFS stands for Co-relational based Feature Selection.
 It is a type of Filter method for feature selection.
 
 #### The CFS measure evaluates subsets of features on the basis of the following hypothesis:<br />
-#### Good feature subsets contain features highly correlated with the classification, yet uncorrelated to each other.
+####         Good feature subsets contain features highly correlated with the classification, yet uncorrelated to each other.
 
 I have used CFS subset with Forward selection feature selection.
 
@@ -38,10 +38,10 @@ In MLP, we can have more than one linear layer. For eg, in a 3-layer network, fi
 
 ## References
 
-(1) J. Jabez, S. Gowri, S. Vigneshwari, J. Albert Mayan and Senduru Srinivasulu:     Anomaly Detection by Using CFS Subset and Neural Network with WEKA Tools
+(1) J. Jabez, S. Gowri, S. Vigneshwari, J. Albert Mayan and Senduru Srinivasulu:     Anomaly Detection by Using CFS Subset and Neural       Network with WEKA Tools
 
 (2) Mark A. Hall: Correlation-based Feature Selection for Machine Learning
 
-(3) T. Karthikeyan and P. Thangaraju : Best First and Greedy Search Based CFS-      Naïve Bayes Classification Algorithms for Hepatitis Diagnosis
+(3) T. Karthikeyan and P. Thangaraju : Best First and Greedy Search Based CFS-      Naïve Bayes Classification Algorithms for Hepatitis     Diagnosis
 
 (4) Prof. Mitesh M.Khapra on NPTEL's Deep Learning course.
